@@ -609,7 +609,7 @@ Probably not, but it's closer than `(a -> a) -> a -> a`.
 
 ---
 
-Dave Feuer's example:
+David Feuer's example:
 
 > The trouble is that you can't have quantifiers in the RHS of a type family instance.
 
